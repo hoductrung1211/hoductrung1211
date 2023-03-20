@@ -1,4 +1,4 @@
-### Hi there 👋
+### 💻Tech Stack
 
 <!--
 **hoductrung1211/hoductrung1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
